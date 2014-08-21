@@ -1,0 +1,2 @@
+Програмата за генериране на PDF в по - голямата си част е иззета от блога на "tr00per" - http://zvezdo.wordpress.com/2014/05/09/java-generate-a-pdf-by-external-library/.
+С всичко останало се справих сам.
